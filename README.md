@@ -1,13 +1,15 @@
 # LLAMA2-
-#How to run
+# LLAMA2- Setup Guide
 
-### steps1:
+## Getting Started
 
-clone the reposatory 
+### Step 1: Clone the Repository
 
-'''bash
+Clone the LLAMA2- repository to your local machine:
+
+```bash
 git clone https://github.com/Hasnainbold/LLAMA2-.git
-'''
+
 
 ### step2:
 
