@@ -9,7 +9,7 @@ Clone the LLAMA2- repository to your local machine:
 
 ```bash
 git clone https://github.com/Hasnainbold/LLAMA2-.git
-
+```
 
 ### step2:
 
