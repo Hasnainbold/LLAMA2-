@@ -31,11 +31,11 @@ pip install -r requirements.txt
 ```ini
 ## Download the Llama 2 Model:
 ```
-
+```bash 
 llama-2-7b-chat.ggmlv3.q4_0.bin
+```
 
-````
 ##from the flowwing link
-
+```bash
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 ```
