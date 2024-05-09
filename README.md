@@ -28,6 +28,8 @@ pip install -r requirements.txt
 
 '''ini
 ## Download the Llama 2 Model:
+
+
 llama-2-7b-chat.ggmlv3.q4_0.bin
 ##from the flowwing link
 
