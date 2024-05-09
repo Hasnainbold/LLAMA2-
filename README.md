@@ -22,7 +22,9 @@ conada create -n cpullama python=3.8 -y
 ```bash 
 conda activate python
 ```
-
+```bash
+python app.py
+````
 ```bash
 pip install -r requirements.txt
 ```
