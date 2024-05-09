@@ -28,9 +28,9 @@ pip install -r requirements.txt
 ```
 ###Download the quantize model from the link provided in model folder & keep the model in the model directory:
 
-```ini
+
 ## Download the Llama 2 Model:
-```
+
 ```bash 
 llama-2-7b-chat.ggmlv3.q4_0.bin
 ```
