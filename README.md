@@ -5,9 +5,9 @@
 
 clone the reposatory 
 
-'''bash
-git clone https://github.com/Hasnainbold/LLAMA2-.git
-'''
+<!-- bash
+git clone https://github.com/Hasnainbold/LLAMA2-.git -->
+
 
 ### step2:
 
