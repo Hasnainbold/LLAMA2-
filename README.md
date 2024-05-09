@@ -5,9 +5,9 @@
 
 clone the reposatory 
 
-<!-- bash
-git clone https://github.com/Hasnainbold/LLAMA2-.git -->
-
+'''bash
+git clone https://github.com/Hasnainbold/LLAMA2-.git
+'''
 
 ### step2:
 
@@ -36,4 +36,3 @@ llama-2-7b-chat.ggmlv3.q4_0.bin
 ##from the flowwing link
 
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
-'''
